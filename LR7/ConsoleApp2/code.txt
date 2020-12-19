@@ -1,0 +1,5 @@
+;  !!ndd!!
+; const string str = "123"
+; const string str1 = str * 5
+; int number1 = 5
+; int  number2 = number1^3
